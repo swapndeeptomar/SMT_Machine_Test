@@ -95,4 +95,5 @@ A browser-based To-Do List application built using HTML + JavaScript.
 1) Open Sql file in the MySql Workbench or Sql Server Studio. Select the Commands and click on Run Button or Execute Button
 2) Open The Python file in Any IDE such as Visual Studio Code. Click on New Terminal Button and Run the Script.
 3) Open the html file by clicking on it , it will be opeaned in a browser.
+
 **End of README**
